@@ -1,0 +1,7 @@
+name "help"
+style "bootstrap.min.css"
+style "master.css"
+style "help.css"
+script "bootstrap.min.js"
+script "jquery.min.js"
+script "js.js"
